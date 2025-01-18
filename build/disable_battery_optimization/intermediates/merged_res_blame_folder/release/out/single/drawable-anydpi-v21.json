@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "in.jvapps.disable_battery_optimization-merged_res-40:/drawable-anydpi-v21/ic_call_answer.xml",
+        "source": "in.jvapps.disable_battery_optimization-core-1.13.1-31:/drawable-anydpi-v21/ic_call_answer.xml"
+    },
+    {
+        "merged": "in.jvapps.disable_battery_optimization-merged_res-40:/drawable-anydpi-v21/md_nav_back.xml",
+        "source": "in.jvapps.disable_battery_optimization-jetified-core-0.9.6.0-14:/drawable-anydpi-v21/md_nav_back.xml"
+    },
+    {
+        "merged": "in.jvapps.disable_battery_optimization-merged_res-40:/drawable-anydpi-v21/ic_call_decline.xml",
+        "source": "in.jvapps.disable_battery_optimization-core-1.13.1-31:/drawable-anydpi-v21/ic_call_decline.xml"
+    },
+    {
+        "merged": "in.jvapps.disable_battery_optimization-merged_res-40:/drawable-anydpi-v21/ic_call_answer_video_low.xml",
+        "source": "in.jvapps.disable_battery_optimization-core-1.13.1-31:/drawable-anydpi-v21/ic_call_answer_video_low.xml"
+    },
+    {
+        "merged": "in.jvapps.disable_battery_optimization-merged_res-40:/drawable-anydpi-v21/ic_call_answer_low.xml",
+        "source": "in.jvapps.disable_battery_optimization-core-1.13.1-31:/drawable-anydpi-v21/ic_call_answer_low.xml"
+    },
+    {
+        "merged": "in.jvapps.disable_battery_optimization-merged_res-40:/drawable-anydpi-v21/ic_call_decline_low.xml",
+        "source": "in.jvapps.disable_battery_optimization-core-1.13.1-31:/drawable-anydpi-v21/ic_call_decline_low.xml"
+    },
+    {
+        "merged": "in.jvapps.disable_battery_optimization-merged_res-40:/drawable-anydpi-v21/ic_call_answer_video.xml",
+        "source": "in.jvapps.disable_battery_optimization-core-1.13.1-31:/drawable-anydpi-v21/ic_call_answer_video.xml"
+    }
+]

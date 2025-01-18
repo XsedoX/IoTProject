@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "in.jvapps.disable_battery_optimization-merged_res-40:/xml/standalone_badge_gravity_top_start.xml",
+        "source": "in.jvapps.disable_battery_optimization-material-1.5.0-33:/xml/standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "in.jvapps.disable_battery_optimization-merged_res-40:/xml/standalone_badge_offset.xml",
+        "source": "in.jvapps.disable_battery_optimization-material-1.5.0-33:/xml/standalone_badge_offset.xml"
+    },
+    {
+        "merged": "in.jvapps.disable_battery_optimization-merged_res-40:/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "in.jvapps.disable_battery_optimization-material-1.5.0-33:/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "in.jvapps.disable_battery_optimization-merged_res-40:/xml/standalone_badge.xml",
+        "source": "in.jvapps.disable_battery_optimization-material-1.5.0-33:/xml/standalone_badge.xml"
+    },
+    {
+        "merged": "in.jvapps.disable_battery_optimization-merged_res-40:/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "in.jvapps.disable_battery_optimization-material-1.5.0-33:/xml/standalone_badge_gravity_bottom_start.xml"
+    }
+]

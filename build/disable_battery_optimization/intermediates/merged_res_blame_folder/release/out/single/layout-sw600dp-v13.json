@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "in.jvapps.disable_battery_optimization-merged_res-40:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "in.jvapps.disable_battery_optimization-material-1.5.0-33:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "in.jvapps.disable_battery_optimization-merged_res-40:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "in.jvapps.disable_battery_optimization-material-1.5.0-33:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]
