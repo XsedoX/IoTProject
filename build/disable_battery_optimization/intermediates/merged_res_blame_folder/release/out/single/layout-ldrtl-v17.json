@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "in.jvapps.disable_battery_optimization-merged_res-40:/layout-ldrtl-v17/md_listitem_singlechoice.xml",
+        "source": "in.jvapps.disable_battery_optimization-jetified-core-0.9.6.0-14:/layout-ldrtl-v17/md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "in.jvapps.disable_battery_optimization-merged_res-40:/layout-ldrtl-v17/material_textinput_timepicker.xml",
+        "source": "in.jvapps.disable_battery_optimization-material-1.5.0-33:/layout-ldrtl-v17/material_textinput_timepicker.xml"
+    },
+    {
+        "merged": "in.jvapps.disable_battery_optimization-merged_res-40:/layout-ldrtl-v17/md_listitem_multichoice.xml",
+        "source": "in.jvapps.disable_battery_optimization-jetified-core-0.9.6.0-14:/layout-ldrtl-v17/md_listitem_multichoice.xml"
+    }
+]

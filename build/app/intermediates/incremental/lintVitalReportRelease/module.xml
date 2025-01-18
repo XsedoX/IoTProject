@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="C:\Users\sjule\Desktop\studia\2Stopien\IoTSecurity\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    agpVersion="8.1.0"
+    buildFolder="C:\Users\sjule\Desktop\studia\2Stopien\IoTSecurity\build\app"
+    bootClassPath="C:\Users\sjule\AppData\Local\Android\Sdk\platforms\android-34\android.jar;C:\Users\sjule\AppData\Local\Android\Sdk\build-tools\33.0.1\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

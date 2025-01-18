@@ -1,0 +1,20 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="in.jvapps.disable_battery_optimization" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+6
+7    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+7-->C:\Users\sjule\AppData\Local\Pub\Cache\hosted\pub.dev\disable_battery_optimization-1.1.1\android\src\main\AndroidManifest.xml:5:5-95
+7-->C:\Users\sjule\AppData\Local\Pub\Cache\hosted\pub.dev\disable_battery_optimization-1.1.1\android\src\main\AndroidManifest.xml:5:22-92
+8    <uses-permission android:name="oppo.permission.OPPO_COMPONENT_SAFE" />
+8-->C:\Users\sjule\AppData\Local\Pub\Cache\hosted\pub.dev\disable_battery_optimization-1.1.1\android\src\main\AndroidManifest.xml:6:5-75
+8-->C:\Users\sjule\AppData\Local\Pub\Cache\hosted\pub.dev\disable_battery_optimization-1.1.1\android\src\main\AndroidManifest.xml:6:22-72
+9    <uses-permission android:name="android.permission.INTERNET" />
+9-->C:\Users\sjule\AppData\Local\Pub\Cache\hosted\pub.dev\disable_battery_optimization-1.1.1\android\src\main\AndroidManifest.xml:7:5-67
+9-->C:\Users\sjule\AppData\Local\Pub\Cache\hosted\pub.dev\disable_battery_optimization-1.1.1\android\src\main\AndroidManifest.xml:7:22-64
+10
+11    <application />
+11-->C:\Users\sjule\AppData\Local\Pub\Cache\hosted\pub.dev\disable_battery_optimization-1.1.1\android\src\main\AndroidManifest.xml:9:5-32
+12
+13</manifest>
