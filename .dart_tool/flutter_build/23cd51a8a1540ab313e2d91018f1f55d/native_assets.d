@@ -1,1 +1,0 @@
- C:\\Users\\sjule\\Desktop\\studia\\2Stopien\\IoTSecurity\\.dart_tool\\flutter_build\\23cd51a8a1540ab313e2d91018f1f55d\\native_assets.yaml: 
